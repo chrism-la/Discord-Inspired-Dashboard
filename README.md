@@ -38,14 +38,6 @@
   <p align="center">
     This project is a Discord-inspired dashboard built with React, Vite, Tailwind CSS, and React Icons. The dashboard features interactive hover effects and tooltip animations, providing a smooth and dynamic user experience.
     <br />
-    <a href="https://github.com/chrism-la/Discord-Inspired-Dashboard"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/chrism-la/Discord-Inspired-Dashboard">View Demo</a>
-    ·
-    <a href="https://github.com/chrism-la/Discord-Inspired-Dashboard/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/chrism-la/Discord-Inspired-Dashboard/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -80,10 +72,6 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `chrism-la`, `Discord-Inspired-Dashboard`, `twitter_handle`, `chrism-la`, `gmail`, `christophermorales.work`, `Discord Inspired Dashboard`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
@@ -215,7 +203,7 @@ Project Link: [https://github.com/chrism-la/Discord-Inspired-Dashboard](https://
 [license-url]: https://github.com/chrism-la/Discord-Inspired-Dashboard/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/chrism-la
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
