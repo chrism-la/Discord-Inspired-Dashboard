@@ -81,7 +81,7 @@
 -   [![Angular][Angular.io]][Angular-url]
 -   [![Svelte][Svelte.dev]][Svelte-url]
 -   [![Laravel][Laravel.com]][Laravel-url]
--   [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+-   [![tailwind][tailwind.com]][tailwind-url]
 -   [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -216,7 +216,7 @@ Project Link: [https://github.com/chrism-la/Discord-Inspired-Dashboard](https://
 [Svelte-url]: https://svelte.dev/
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
+[tailwind.com]: https://img.shields.io/badge/tailwind-563D7C?style=for-the-badge&logo=tailwind&logoColor=white
+[tailwind-url]: https://tailwindcss.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
