@@ -1,4 +1,4 @@
-import { FaSafari, FaPoo, FaFire, FaCamera, FaTwitter } from 'react-icons/fa';
+import { FaSafari, FaPoo, FaFire, FaTwitter, FaBeer } from 'react-icons/fa';
 
 export default function SideBar() {
     return (
@@ -6,7 +6,7 @@ export default function SideBar() {
             <SideBarIcon icon={<FaPoo size="28" />} />
             <SideBarIcon icon={<FaSafari size="28" />} />
             <SideBarIcon icon={<FaFire size="28" />} />
-            <SideBarIcon icon={<FaCamera size="28" />} />
+            <SideBarIcon icon={<FaBeer size="28" />} />
             <SideBarIcon icon={<FaTwitter size="28" />} />
         </div>
     );
