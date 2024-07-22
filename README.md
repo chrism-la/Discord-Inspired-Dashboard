@@ -51,15 +51,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -77,67 +68,8 @@
 
 -   [![React][React.js]][React-url]
 -   [![vite][vite.js]][vite-url]
--   [![tailwind][tailwind.com]][tailwind-url]
+-   [![Tailwind][Tailwind.com]][Tailwind-url]
 -   [![reacticons][reacticons.com]][reacticons-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
--   npm
-    ```sh
-    npm install npm@latest -g
-    ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-    ```sh
-    git clone https://github.com/chrism-la/Discord-Inspired-Dashboard.git
-    ```
-3. Install NPM packages
-    ```sh
-    npm install
-    ```
-4. Enter your API in `config.js`
-    ```js
-    const API_KEY = 'ENTER YOUR API';
-    ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-
-## Roadmap
-
--   [ ] Feature 1
--   [ ] Feature 2
--   [ ] Feature 3
-    -   [ ] Nested Feature
-
-See the [open issues](https://github.com/chrism-la/Discord-Inspired-Dashboard/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -154,35 +86,23 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - christophermorales.work@gmail.com
-
-Project Link: [https://github.com/chrism-la/Discord-Inspired-Dashboard](https://github.com/chrism-la/Discord-Inspired-Dashboard)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Christopher Morales - christophermorales.work@gmail.com
 
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
 
--   []()
--   []()
--   []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+-   [Fireship](https://fireship.io/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -204,7 +124,7 @@ Project Link: [https://github.com/chrism-la/Discord-Inspired-Dashboard](https://
 [React-url]: https://reactjs.org/
 [vite.js]: https://img.shields.io/badge/vite.js-35495E?style=for-the-badge&logo=vite&logoColor=4FC08D
 [vite-url]: https://vitejs.dev/
-[tailwind.com]: https://img.shields.io/badge/tailwind-0EA5E9?style=for-the-badge&logo=tailwind&logoColor=white
-[tailwind-url]: https://tailwindcss.com
+[Tailwind.com]: https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=Tailwind&logoColor=white
+[Tailwind-url]: https://tailwindcss.com
 [reacticons.com]: https://img.shields.io/badge/reacticons-0769AD?style=for-the-badge&logo=reacticons&logoColor=white
 [reacticons-url]: https://www.npmjs.com/package/react-icons.com
