@@ -1,5 +1,10 @@
 import './App.css';
+import SideBar from './SideBar';
 
 export default function App() {
-    return <h1 className="text-3xl font-bold underline text-green-700 font-sans">Hello world!</h1>;
+    return (
+        <div className="flex">
+            <SideBar />
+        </div>
+    );
 }
